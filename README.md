@@ -29,6 +29,8 @@ User Sign Up/Login.
 
 This WebApp is compatible with devices of all sizes.
 
+<img src="/Amazon_images/amazon5.jpg" alt="Mobile Support" width="30%" height="30%"> <img src="/Amazon_images/amazon6.jpg" alt="Mobile Support" width="30%" height="30%">
+
 ## Usage
 
 ### Development
