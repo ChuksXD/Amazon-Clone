@@ -1,0 +1,37 @@
+.home{
+    max-width: 1500px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.home_row{
+    display:flex;
+    z-index: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.home_image{
+    width:100%;
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1),rgba(0,0,0,0));
+    z-index: -1;
+    margin-bottom: -150px;
+
+}
+
+/* If the screen size is 600px or less, set the font-size of <div> to 30px */
+@media only screen and (max-width: 600px) {
+    .home_image {
+        margin-bottom: 10px;
+        width: 100%;
+        height: auto;
+        
+    
+    }
+    .home{
+width: 500px;
+    }
+
+  }
